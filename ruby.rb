@@ -1,4 +1,5 @@
 class Peson
 puts "mohit"
-uts "hello"
+puts "hello"
+
 end
