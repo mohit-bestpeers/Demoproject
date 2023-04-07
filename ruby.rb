@@ -1,5 +1,6 @@
 class Peson
-puts "mohit"
-puts "hello"
+puts "The man said, \'Hi there!\'"
+
+puts 'The man said, \"Hi there!\"'
 
 end
