@@ -99,7 +99,40 @@ end
 greeting("Bob")
 greeting("Bob", {age: 62, city: "New York City"})
 greeting("Bob", age: 62, city: "New York City")
+
+
+str=-"mohit"
+st=str.upcase.downcase.capitalize
+puts st
+
+add(5).timies(){selecty}
+
+class Person
+
+def create(par)
+  
+    puts par
+    if par != 0
+    create(par-1)
+    end
+end
+   
+con=Person.new
+con.create(20)
+end
+ 
 =end
 
+# conditional_while_loop_with_next.rb
 
+x = 0
 
+while x <= 10
+  if x == 3
+x += 1
+    next
+  elsif x.odd?
+    puts x
+  end
+  x += 1
+end
