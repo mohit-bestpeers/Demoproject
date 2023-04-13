@@ -97,3 +97,8 @@ puts color.keys
   #cust1.display_details
  # puts cust1.calculate(1,"12");
 end
+
+a=[1,2,3,4,5]
+  b=a-(2)
+  puts b
+  puts a

@@ -1,5 +1,5 @@
 a = [1,2,3,4,5]
-b=3+
+b=3
 loop do
     puts "Hello"
     break

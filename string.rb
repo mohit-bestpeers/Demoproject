@@ -1,5 +1,6 @@
 
 #find occurance of char in string
+=begin
 @const = 0
 def string(str)
 
@@ -12,6 +13,7 @@ def string(str)
     end
  
 end
+=end
 str = "Bestpeers"
 string(str)
 puts @const
